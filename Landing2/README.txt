@@ -1,13 +1,11 @@
 
 TITLE: 
-Elate - One Page Responsive Free HTML5 template
+ReadyTo Design
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by ReadyTo Developers(Nicolas Salas)
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+
 
 
 CREDITS:
@@ -51,9 +49,5 @@ https://github.com/mhuggins/jquery-countTo
 Stellar Parallax
 http://markdalgleish.com/projects/stellar.js/
 
-Demo Images:
-http://pexels.com
-http://plmd.me
-
-Mafnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
+EmailJS
+http://www.emailjs.com/
